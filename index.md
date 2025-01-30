@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doc researcher at [Cispa](https://cispa.de/en) (Saarbruecken, Germany) in the research group of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). I have defended my PhD ("Formal analysis of security protocols:real-world case-studies and automated proof strategies") in 2024 at [Loria](https://www.loria.fr/fr/) (Nancy, France).
+I am a post-doc researcher at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) (Saarbruecken, Germany) in the research group of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). I have defended my PhD ("Formal analysis of security protocols:real-world case-studies and automated proof strategies") in 2024 at [Loria](https://www.loria.fr/fr/) (Nancy, France).
 
 ## Research Interests
 
