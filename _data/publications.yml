@@ -2,10 +2,10 @@ main:
 
   - title: A comprehensive, formal and automated analysis of the EDHOC protocol
     authors: Charlie Jacomme, Elise Klein, Steve Kremer, and Maïwenn Racouchot
-    conference_short: MICCAI
-    conference: USENIX Security Symposium (USENIX), 2023. <strong>(MICCAI)</strong>, 2023.
+    conference_short: USENIX
+    conference: USENIX Security Symposium <strong>(USENIX)</strong>, 2023.
     pdf: https://www.usenix.org/system/files/usenixsecurity23-jacomme.pdf
     code: https://github.com/charlie-j/edhoc-formal-analysis
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://inria.hal.science/hal-03810102v1/bibtex
 #    image: ./assets/img/teaser_example_2.png
 #    notes: Early Accept
