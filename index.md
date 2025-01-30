@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a post-doc researcher at Cispa
+I am a post-doc researcher at [Cispa](https://cispa.de/en) (Saarbruecken, Germany) in the research group of [Prof. Dr. Cas Cremers](https://people.cispa.io/cas.cremers/). I have defended my PhD ("Formal analysis of security protocols:real-world case-studies and automated proof strategies") in 2024 at [Loria](https://www.loria.fr/fr/) (Nancy, France).
 
 ## Research Interests
 
@@ -19,7 +19,6 @@ I am a post-doc researcher at Cispa
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.--->
 
 {% include_relative _includes/publications.md %}
-
 <!---{% include_relative _includes/services.md %}--->
 
 {% include_relative _includes/teaching.md %}
